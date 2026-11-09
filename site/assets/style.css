@@ -111,4 +111,3 @@ a:focus-visible, button:focus-visible, [tabindex]:focus-visible { outline: 3px s
 
 .document-content .document-version { padding: .75rem 1rem; border-radius: 5px; background: var(--soft); color: var(--muted); font-size: .82rem; line-height: 1.65; }
 @media print { .document-content .document-version { padding: 0; background: none; font-size: 9pt; color: #333; } }
-
