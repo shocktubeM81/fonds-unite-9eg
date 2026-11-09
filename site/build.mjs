@@ -19,6 +19,7 @@ const escape = value => value.replaceAll('&', '&amp;').replaceAll('<', '&lt;').r
 await mkdir(output, { recursive: true });
 await cp(join(root, 'site/assets'), join(output, 'assets'), { recursive: true });
 await writeFile(join(output, '.nojekyll'), '');
+await cp(join(root, 'CNAME'), join(output, 'CNAME'));
 for (const [file, title, source] of pages) {
   const nav = pages.map(([target, label]) => `<a href="${target}"${target === file ? ' aria-current="page"' : ''}>${label}</a>`).join('');
   const html = `<!doctype html>

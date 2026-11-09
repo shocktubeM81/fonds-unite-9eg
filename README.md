@@ -28,4 +28,6 @@ La constitution et les documents du dossier `documentation/` restent les sources
 
 Pour construire le site : installer Node.js 24 et pnpm 11.25.0, puis exécuter `pnpm install --frozen-lockfile` et `pnpm run build`.
 
-Le workflow GitHub vérifie les demandes de fusion et publie les modifications de `main` sur GitHub Pages. L’hébergement utilise GitHub Actions. Aucun domaine personnalisé n’est défini.
+Le workflow GitHub vérifie les demandes de fusion et publie les modifications de `main` sur GitHub Pages. L’hébergement utilise GitHub Actions. Le domaine personnalisé est `fonds.9eg.ca`; le fichier `CNAME` est inclus dans les pages produites.
+
+Dans Cloudflare, le sous-domaine `fonds` doit avoir un enregistrement CNAME vers `shocktubem81.github.io`, en mode « DNS uniquement », avec une durée de vie automatique. GitHub Pages doit également être configuré pour `fonds.9eg.ca`. L’activation de HTTPS dépend de la validation du pointage et du certificat par GitHub.
