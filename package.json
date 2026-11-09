@@ -1,0 +1,7 @@
+{
+  "name": "fonds-unite-9eg",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node site/build.mjs" },
+  "dependencies": { "marked": "15.0.12" }
+}

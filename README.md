@@ -20,4 +20,12 @@ Après approbation, consigner les dates réelles, les références des décision
 
 Ce dépôt public contient les textes généraux et leur historique. Les coordonnées bancaires, renseignements personnels, pièces comptables et dossiers individuels restent dans les systèmes autorisés.
 
-La publication d’un site comparable à celui du Mess pourra être ajoutée séparément. Aucun domaine ou hébergement n’est configuré dans cette version.
+## Site documentaire
+
+Le site reprend la présentation du Mess avec cinq rubriques : accueil, constitution, références, points à valider et historique. Il propose un sommaire, une lecture sur téléphone et une mise en page pour l’impression.
+
+La constitution et les documents du dossier `documentation/` restent les sources du site. Le générateur `site/build.mjs` produit les pages dans `dist/` et vérifie leurs liens locaux. Les références sont extraites directement de la constitution.
+
+Pour construire le site : installer Node.js 24 et pnpm 11.25.0, puis exécuter `pnpm install --frozen-lockfile` et `pnpm run build`.
+
+Le workflow GitHub vérifie les demandes de fusion et publie les modifications de `main` sur GitHub Pages. L’hébergement utilise GitHub Actions. Aucun domaine personnalisé n’est défini.
