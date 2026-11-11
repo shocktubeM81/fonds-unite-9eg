@@ -53,7 +53,7 @@ for (const [file, title, source] of [
   pages.push([file, title, await readFile(join(root, source), 'utf8')]);
 }
 const navigation = [
-  ['index.html', 'Accueil'], ['https://mess.9eg.ca', 'Mess'], ['constitution.html', 'Constitution'],
+  ['index.html', 'Accueil'], ['constitution.html', 'Constitution'],
   ['annexes.html', 'Annexes'], ['justification.html', 'Pourquoi un fonds distinct?'],
   ['references.html', 'Références'], ['validation.html', 'Validation'],
 ];
@@ -78,7 +78,7 @@ for (const [file, title, source] of pages) {
 <body><a class="skip-link" href="#contenu">Passer au contenu</a><div class="reading-progress" id="reading-progress" aria-hidden="true"></div>
 <header class="site-header"><div class="site-header-inner"><a class="brand" href="index.html"><img class="brand-emblem" src="assets/Logo 34RGC Det Rouyn.png" width="570" height="787" alt="" aria-hidden="true"><span class="brand-wordmark"><strong>Fonds d’unité du 9 EG</strong><span>9e Escadron du génie · Rouyn-Noranda</span></span></a><span class="header-caption">Établissement 5422</span></div><nav class="top-nav" aria-label="Navigation principale">${nav}</nav></header>
 <div class="page-layout"><aside class="sidebar" id="sidebar" aria-label="Sommaire"><div class="sidebar-sticky"><div class="sidebar-title">Dans ce document</div><nav id="table-of-contents" aria-label="Navigation par section"></nav><div class="sidebar-note"><strong>Fonds existant 5422</strong><span>Projet de constitution soumis aux validations et aux approbations applicables.</span></div></div></aside>
-<main class="page-main" id="contenu" tabindex="-1"><div class="page-meta"><span class="eyebrow">${escape(title)}</span><div class="document-actions"><span class="status-label">Projet non approuvé</span><button type="button" id="print-document" class="print-button" hidden>Imprimer</button></div></div><article class="document-content" id="document">${content}</article><footer class="document-footer"><span>Fonds d’unité du 9 EG · 5422</span><a href="concordance.html">Comparaison avec le 34 RGC</a><a href="historique.html">Historique</a><a href="https://github.com/shocktubeM81/fonds-unite-9eg">Dépôt GitHub</a></footer></main></div><button id="toc-toggle" class="toc-toggle" type="button" aria-controls="sidebar" aria-expanded="false" hidden>☰ Sommaire</button></body></html>`;
+<main class="page-main" id="contenu" tabindex="-1"><div class="page-meta"><span class="eyebrow">${escape(title)}</span><div class="document-actions"><span class="status-label">Projet non approuvé</span><button type="button" id="print-document" class="print-button" hidden>Imprimer</button></div></div><article class="document-content" id="document">${content}</article><footer class="document-footer"><span>Fonds d’unité du 9 EG · 5422</span><a href="https://mess.9eg.ca">Mess</a><a href="concordance.html">Comparaison avec le 34 RGC</a><a href="historique.html">Historique</a><a href="https://github.com/shocktubeM81/fonds-unite-9eg">Dépôt GitHub</a></footer></main></div><button id="toc-toggle" class="toc-toggle" type="button" aria-controls="sidebar" aria-expanded="false" hidden>☰ Sommaire</button></body></html>`;
   await writeFile(join(output, file), html);
 }
 // Vérifier que tous les liens et fichiers locaux des pages produites existent.
