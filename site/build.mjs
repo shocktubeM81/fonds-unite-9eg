@@ -53,7 +53,7 @@ for (const [file, title, source] of [
   pages.push([file, title, await readFile(join(root, source), 'utf8')]);
 }
 const navigation = [
-  ['index.html', 'Accueil'], ['constitution.html', 'Constitution'],
+  ['index.html', 'Accueil'], ['https://mess.9eg.ca', 'Mess'], ['constitution.html', 'Constitution'],
   ['annexes.html', 'Annexes'], ['justification.html', 'Pourquoi un fonds distinct?'],
   ['references.html', 'Références'], ['validation.html', 'Validation'],
 ];
