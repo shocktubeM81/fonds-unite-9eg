@@ -7,6 +7,9 @@ Ce dépôt encadre le fonds existant de Rouyn-Noranda, identifié par le code co
 ## Documents
 
 - [Projet de constitution](constitution-projet.md)
+- [Annexes A à G](annexes/)
+- [Justification du fonds distinct](documentation/justification-fonds-distinct.md)
+- [Concordance avec le modèle du 34 RGC](documentation/concordance-34rgc.md)
 - [Points à valider](documentation/points-a-valider.md)
 - [Historique des révisions](documentation/historique.md)
 
@@ -22,9 +25,9 @@ Ce dépôt public contient les textes généraux et leur historique. Les coordon
 
 ## Site documentaire
 
-Le site reprend la présentation du Mess avec cinq rubriques : accueil, constitution, références, points à valider et historique. Il propose un sommaire, une lecture sur téléphone et une mise en page pour l’impression.
+Le site reprend la présentation du Mess : constitution, annexes A à G, justification du fonds distinct, références et suivi des validations. L’accueil donne aussi accès à la concordance avec le 34 RGC et à l’historique. Il propose un sommaire, une lecture sur téléphone et une mise en page pour l’impression.
 
-La constitution et les documents du dossier `documentation/` restent les sources du site. Le générateur `site/build.mjs` produit les pages dans `dist/` et vérifie leurs liens locaux. Les références sont extraites directement de la constitution.
+La constitution et les fichiers des dossiers `annexes/` et `documentation/` sont les sources du site. Le générateur `site/build.mjs` produit les pages dans `dist/` et vérifie leurs liens locaux. Les références sont extraites de la constitution. Le projet du 9 novembre est conservé dans `archives/` comme historique, hors des pages actives.
 
 Pour construire le site : installer Node.js 24 et pnpm 11.25.0, puis exécuter `pnpm install --frozen-lockfile` et `pnpm run build`.
 
