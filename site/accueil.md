@@ -11,11 +11,16 @@ Les avoirs, les engagements et les registres du fonds s’inscrivent dans la con
 ## Consulter les documents
 
 - [Constitution proposée](constitution.html) — objet du fonds, comité, décisions et administration financière.
+- [Annexes A à G](annexes.html) — mandats, cadeaux, activités, réserve, subventions, dons et organisation.
+- [Pourquoi un fonds distinct?](justification.html) — histoire, traditions et besoins locaux.
+- [Comparaison avec le 34 RGC](concordance.html) — structure reprise et adaptations proposées.
 - [Références](references.html) — politiques officielles utilisées pour préparer le projet.
 - [Points à valider](validation.html) — documents attendus et choix locaux à examiner.
 - [Historique](historique.html) — évolution du projet et précisions apportées.
 
 ## Version de travail
+
+La version du 11 novembre 2026 suit les 20 paragraphes et les sept annexes du modèle signé du 34 RGC, avec les adaptations nécessaires pour le fonds existant 5422.
 
 La constitution demeure un **projet non approuvé**. La publication de ces documents ne constitue pas leur approbation administrative.
 
