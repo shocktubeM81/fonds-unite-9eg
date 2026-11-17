@@ -1,6 +1,6 @@
 # Fonds d’unité du 9 EG
 
-Un cadre commun pour administrer le fonds existant de Rouyn-Noranda et soutenir le bien-être collectif du personnel du 9e Escadron du génie.
+Un cadre commun pour administrer le fonds existant de Rouyn-Noranda et soutenir le bien-être collectif du personnel du 9e Escadron de génie.
 
 ## Un fonds existant, une gouvernance à préciser
 

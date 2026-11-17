@@ -37,7 +37,7 @@ def load_sources():
                 anchors[(path, key)] = identifiers[path] + '-' + key
     original = sources['constitution-projet.md']
     status = next((l.strip('*') for l in original.splitlines() if l.startswith('**Projet ')), 'Projet non approuvé')
-    parts = ['# Constitution du Fonds d’unité du 9e Escadron du génie', 'Version : ' + status]
+    parts = ['# Constitution du Fonds d’unité du 9e Escadron de génie', 'Version : ' + status]
     segments = []
     for path in paths:
         content = sources[path.relative_to(ROOT.resolve()).as_posix()]

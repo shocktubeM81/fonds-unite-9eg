@@ -2,7 +2,7 @@
 
 **Projet de constitution — non approuvé.**
 
-Ce dépôt encadre le fonds existant de Rouyn-Noranda, identifié par le code comptable **5422**, au bénéfice du personnel du 9e Escadron du génie. Il documente sa gouvernance et sa distinction avec le fonds du 34 RGC rattaché à **5246**.
+Ce dépôt encadre le fonds existant de Rouyn-Noranda, identifié par le code comptable **5422**, au bénéfice du personnel du 9e Escadron de génie. Il documente sa gouvernance et sa distinction avec le fonds du 34 RGC rattaché à **5246**.
 
 ## Documents
 

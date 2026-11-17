@@ -1,14 +1,27 @@
-# Constitution du Fonds d’unité du 9e Escadron du génie
+# Constitution du Fonds d’unité du 9e Escadron de génie
 
-**Projet non approuvé — version du 11 novembre 2026.**
+**Projet non approuvé — version du 17 novembre 2026.**
 
 Fonds existant de Rouyn-Noranda · Établissement comptable **5422**
 
-Ce projet reprend la structure de la constitution signée du fonds d’unité du 34 RGC fournie le 11 novembre 2026. Les adaptations locales restent soumises aux validations et aux approbations applicables. Le présent texte ne constitue pas une délégation de pouvoirs financiers.
+Ce projet reprend la structure de la constitution signée du fonds d’unité du 34 RGC vérifiée le 11 novembre 2026. Les adaptations locales restent soumises aux validations et aux approbations applicables. Le présent texte ne constitue pas une délégation de pouvoirs financiers.
+
+## Références
+
+- **A.** [Manuel des politiques des PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=353), chapitre 10-3, modification 001/26, consultée le 11 novembre 2026. Vérifier la lettre de modification en cas d’écart avec le corps du manuel.
+- **B.** [DOAD 9003-1 — Biens non publics](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-9000/9003/9003-1-biens-non-publics.html), section 8, consultée le 11 novembre 2026.
+- **C.** [A-FN-105 — Comptabilité des BNP](https://sbmfc.ca/a-propos/politiques-et-publications/comptabilite-biens-non-publics/a-fn-105). Les délégations de signature et la politique de passation de marchés en vigueur doivent être jointes au dossier administratif.
+- **D.** [A-FN-105, chapitre 13, annexe A](https://cfmws.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/AF-N-105%20EN/Chap13A_b.pdf), édition 06/09/2024 : 5246, page 13A-10; 5422, page 13A-12. Libellé anglais de 5422 : « RESERVE-NRO-34CBG5050-UNIT-34 RGC-ROUYN-NORANDA ».
+- **E.** [ORFC, chapitre 210 — Prestations et subventions diverses](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-3-finances/chapitre-210-prestations-subventions-diverses.html). Confirmer les instructions régissant chaque allocation.
+- **F.** Constitution du fonds d’unité du 34 RGC, document fourni le 11 novembre 2026, 19 pages, signature visible datée du 7 août 2026. Voir la [concordance](documentation/concordance-34rgc.md). Aucune signature du modèle n’est reproduite dans ce projet.
+- **G.** [Loi sur la défense nationale](https://laws-lois.justice.gc.ca/fra/lois/N-5/), articles 38 à 41. Les textes supérieurs en vigueur priment sur ce projet.
+- **H.** [TERMIUM Plus — 9 EG](https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?i=&index=alt&lang=fra&srchtxt=9+EG) : fusion du 9 EG et du 3e Régiment du génie le 18 décembre 2006. [Société d’histoire de Rouyn-Noranda — L’armée dans nos rues](https://shrn.ca/rouyn-noranda-en-histoires/larmee-dans-nos-rues), Jonathan Barrette, juillet 2020 : implantation militaire locale. Les dates détaillées et les traditions nommées restent à documenter avec les archives de l’escadron.
+
+Les [points à valider](documentation/points-a-valider.md) distinguent les propositions locales des exigences à confirmer. Le modèle guide la structure; il ne remplace pas les approbations propres à 5422.
 
 ## Préambule — raison d’être d’un fonds distinct
 
-Le Fonds d’unité du 9e Escadron du génie doit demeurer distinct du fonds d’unité du 34 RGC afin de préserver la continuité de l’héritage local et de consacrer des ressources identifiables au bien-être du personnel de Rouyn-Noranda. Cette distinction répond à trois besoins complémentaires :
+Le Fonds d’unité du 9e Escadron de génie doit demeurer distinct du fonds d’unité du 34 RGC afin de préserver la continuité de l’héritage local et de consacrer des ressources identifiables au bien-être du personnel de Rouyn-Noranda. Cette distinction répond à trois besoins complémentaires :
 
 - **Histoire.** Le 9 EG possède une histoire propre, antérieure à la formation du 34 RGC par fusion en 2006. Son héritage s’inscrit dans l’histoire du génie militaire en Abitibi-Témiscamingue et justifie un suivi durable de ses biens commémoratifs et de ses projets de mémoire. [H]
 - **Traditions.** La transmission des souvenirs, les liens avec les anciens membres, les rencontres de l’escadron et les commémorations locales nécessitent une planification et un budget qui rendent ces priorités visibles. Un fonds distinct permet de soutenir leur continuité à travers les changements de personnel, dans le respect des traditions du régiment.
@@ -22,7 +35,7 @@ Une [note de justification](documentation/justification-fonds-distinct.md) déve
 
 ## Généralités
 
-**1.** Pour la présente constitution, le fonds existant rattaché à 5422 est désigné « Fonds d’unité du 9e Escadron du génie », ci-après « le Fonds ». Son libellé comptable recensé est « RESERVE-BRN-34CBG5050-UNITÉ-34 RGC-ROUYN-NORANDA ». L’appellation locale ne change pas ce libellé officiel. [D]
+**1.** Pour la présente constitution, le fonds existant rattaché à 5422 est désigné « Fonds d’unité du 9e Escadron de génie », ci-après « le Fonds ». Son libellé comptable recensé est « RESERVE-BRN-34CBG5050-UNITÉ-34 RGC-ROUYN-NORANDA ». L’appellation locale ne change pas ce libellé officiel. [D]
 
 **2.** Le Fonds relève du commandant investi des pouvoirs BNP applicables, ci-après « le commandant responsable ». Le commandant du 9 EG et le comité exercent seulement les fonctions effectivement confiées. Le dossier d’approbation identifie l’autorité responsable et ses délégations. [B]
 
@@ -131,16 +144,3 @@ Date d’entrée en vigueur : ____________________
 - [E — Subventions](annexes/annexe-e-subventions.md)
 - [F — Dons et reçus BNP](annexes/annexe-f-dons-recus.md)
 - [G — Organisation des fonds](annexes/annexe-g-organisation.md)
-
-## Références consultées et validation restante
-
-- **A.** [Manuel des politiques des PSP](https://sbmfc.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/PSP-Policy-Manual-FR.pdf#page=353), chapitre 10-3, modification 001/26, consultée le 11 novembre 2026. Vérifier la lettre de modification en cas d’écart avec le corps du manuel.
-- **B.** [DOAD 9003-1 — Biens non publics](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/directives-ordonnances-administratives-defense/serie-9000/9003/9003-1-biens-non-publics.html), section 8, consultée le 11 novembre 2026.
-- **C.** [A-FN-105 — Comptabilité des BNP](https://sbmfc.ca/a-propos/politiques-et-publications/comptabilite-biens-non-publics/a-fn-105). Les délégations de signature et la politique de passation de marchés en vigueur doivent être jointes au dossier administratif.
-- **D.** [A-FN-105, chapitre 13, annexe A](https://cfmws.ca/CFMWS/media/images/documents/8.0%20About%20Us/8.4%20Policies%20and%20Publications/8.4.5/Policies/AF-N-105%20EN/Chap13A_b.pdf), édition 06/09/2024 : 5246, page 13A-10; 5422, page 13A-12. Libellé anglais de 5422 : « RESERVE-NRO-34CBG5050-UNIT-34 RGC-ROUYN-NORANDA ».
-- **E.** [ORFC, chapitre 210 — Prestations et subventions diverses](https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/ordonnances-reglements-royaux/vol-3-finances/chapitre-210-prestations-subventions-diverses.html). Confirmer les instructions régissant chaque allocation.
-- **F.** Constitution du fonds d’unité du 34 RGC, document fourni le 11 novembre 2026, 19 pages, signature visible datée du 7 août 2026. Voir la [concordance](documentation/concordance-34rgc.md). Aucune signature du modèle n’est reproduite dans ce projet.
-- **G.** [Loi sur la défense nationale](https://laws-lois.justice.gc.ca/fra/lois/N-5/), articles 38 à 41. Les textes supérieurs en vigueur priment sur ce projet.
-- **H.** [TERMIUM Plus — 9 EG](https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?i=&index=alt&lang=fra&srchtxt=9+EG) : fusion du 9 EG et du 3e Régiment du génie le 18 décembre 2006. [Société d’histoire de Rouyn-Noranda — L’armée dans nos rues](https://shrn.ca/rouyn-noranda-en-histoires/larmee-dans-nos-rues), Jonathan Barrette, juillet 2020 : implantation militaire locale. Les dates détaillées et les traditions nommées restent à documenter avec les archives de l’escadron.
-
-Les [points à valider](documentation/points-a-valider.md) distinguent les propositions locales des exigences à confirmer. Le modèle guide la structure; il ne remplace pas les approbations propres à 5422.

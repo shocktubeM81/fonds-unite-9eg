@@ -1,4 +1,4 @@
-# Projet de constitution du Fonds d’unité du 9e Escadron du génie
+# Projet de constitution du Fonds d’unité du 9e Escadron de génie
 
 Version de travail du 9 novembre 2026 — non approuvée.
 
@@ -6,7 +6,7 @@ Ce projet encadre le fonds existant rattaché à l’établissement comptable 54
 
 ## 1. Préambule — nécessité d’un fonds distinct
 
-Le 9e Escadron du génie (9 EG) a besoin d’un fonds permettant de planifier, de financer et de suivre les activités de bien-être et de cohésion destinées à son personnel. Pour répondre à ses priorités locales et rendre compte clairement des ressources qui lui sont destinées, il demande que son fonds soit formellement encadré comme un Fonds d’unité du 9 EG distinct de celui du 34e Régiment du génie de combat (34 RGC).
+Le 9e Escadron de génie (9 EG) a besoin d’un fonds permettant de planifier, de financer et de suivre les activités de bien-être et de cohésion destinées à son personnel. Pour répondre à ses priorités locales et rendre compte clairement des ressources qui lui sont destinées, il demande que son fonds soit formellement encadré comme un Fonds d’unité du 9 EG distinct de celui du 34e Régiment du génie de combat (34 RGC).
 
 L’annexe A du chapitre 13 de l’A-FN-105 répertorie déjà l’établissement comptable 5422, « RESERVE-BRN-34CBG5050-UNITÉ-34 RGC-ROUYN-NORANDA », séparément de l’établissement 5246 du 34 RGC. Cette inscription constitue un point de départ pour la validation administrative du projet; elle ne démontre pas à elle seule l’autonomie du fonds ou une délégation de pouvoirs au 9 EG. [D]
 
@@ -18,7 +18,7 @@ L’encadrement du fonds existant ne donne aucun droit automatique sur les avoir
 
 ## 2. Nom, objet et identification du fonds existant
 
-2.1. Pour l’application de la présente constitution, le fonds existant rattaché à l’établissement comptable 5422 est désigné « Fonds d’unité du 9e Escadron du génie », ci-après « le Fonds ». Cette appellation locale ne modifie pas à elle seule son libellé comptable officiel.
+2.1. Pour l’application de la présente constitution, le fonds existant rattaché à l’établissement comptable 5422 est désigné « Fonds d’unité du 9e Escadron de génie », ci-après « le Fonds ». Cette appellation locale ne modifie pas à elle seule son libellé comptable officiel.
 
 2.2. Il sert au bien-être collectif du personnel du 9 EG. Les biens administrés par le Mess demeurent hors de son périmètre, sauf transfert autorisé.
 
