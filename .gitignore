@@ -5,3 +5,64 @@ Desktop.ini
 .DS_Store
 node_modules/
 dist/
+
+/exports/
+/tmp/
+__pycache__/
+*.pyc
+~$*.docx
+/site/_site/
+/site/.jekyll-cache/
+/site/.jekyll-metadata
+
+# Jekyll - fichiers generes localement
+/_site/
+/.jekyll-cache/
+/.jekyll-metadata
+/.sass-cache/
+
+# Ruby / Bundler
+/.bundle/
+/site/.bundle/
+/vendor/
+/site/vendor/
+*.gem
+
+# Dependances et caches eventuels
+/node_modules/
+/tmp/
+/coverage/
+__pycache__/
+*.py[cod]
+.venv/
+
+# Fichiers temporaires et journaux
+*.log
+*.tmp
+*.bak
+*~
+*.swp
+*.swo
+
+# Systeme d'exploitation / editeurs
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+
+# Variables locales, identifiants et certificats
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Dossiers de travail locaux non destines a la publication
+/prive/
+/confidentiel/
+
+# Attention : .gitignore ne retire pas les fichiers deja suivis
+# et ne securise pas les documents d'un depot public.

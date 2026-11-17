@@ -1,0 +1,17 @@
+{
+  "nom": "Présentation du 9e Escadron du génie",
+  "reference_visuelle": "Présentation du 9e Escadron du génie",
+  "police": "Times New Roman",
+  "taille": 12,
+  "marge_gauche_cm": 2.5,
+  "marge_droite_cm": 2.5,
+  "marge_haut_cm": 2.2,
+  "marge_bas_cm": 2.2,
+  "insigne": "generateur/modeles/Logo 34RGC Det Rouyn.png",
+  "titre_couverture": "CONSTITUTION DU FONDS D'UNITÉ\nDU 9e ESCADRON DU GÉNIE",
+  "unite": "9e Escadron du génie",
+  "lieu": "Manège militaire de Rouyn-Noranda",
+  "adresse": "97, rue Perreault Est, Rouyn-Noranda, Québec",
+  "entete": "FONDS D'UNITÉ DU 9 EG — ÉTABLISSEMENT 5422",
+  "auteur": "Fonds d'unité du 9 EG"
+}
